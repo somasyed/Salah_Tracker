@@ -1,0 +1,734 @@
+,angleX,angleY,angleZ,Time,Label
+0,-1,-43,23,15:28:04,StartEnd
+1,0,-43,22,15:28:04,StartEnd
+2,0,-43,21,15:28:05,Long Standing
+3,0,-44,23,15:28:05,Long Standing
+4,0,-44,20,15:28:05,Long Standing
+5,1,-46,19,15:28:05,Long Standing
+6,0,-45,17,15:28:06,Long Standing
+7,2,-46,17,15:28:06,Long Standing
+8,4,-50,32,15:28:06,Long Standing
+9,0,-44,40,15:28:06,Long Standing
+10,0,-25,48,15:28:07,Long Standing
+11,3,-10,44,15:28:07,Long Standing
+12,-11,27,24,15:28:07,Long Standing
+13,-15,34,17,15:28:07,Long Standing
+14,-16,40,29,15:28:08,Long Standing
+15,-12,37,38,15:28:08,Long Standing
+16,-14,37,27,15:28:08,Long Standing
+17,-15,40,27,15:28:08,Long Standing
+18,-20,36,16,15:28:09,Long Standing
+19,-19,41,15,15:28:09,Long Standing
+20,-19,41,15,15:28:09,Long Standing
+21,-22,41,14,15:28:09,Long Standing
+22,-22,41,15,15:28:10,Long Standing
+23,-22,39,13,15:28:10,Long Standing
+24,-28,40,9,15:28:10,Long Standing
+25,7,7,40,15:28:10,Long Standing
+26,16,-8,47,15:28:11,Long Standing
+27,31,-20,32,15:28:11,Long Standing
+28,35,-17,31,15:28:11,Long Standing
+29,33,-17,31,15:28:12,Long Standing
+30,31,-18,21,15:28:12,Long Standing
+31,35,-26,35,15:28:12,Long Standing
+32,35,-20,27,15:28:12,Long Standing
+33,38,-14,26,15:28:13,Long Standing
+34,38,-18,27,15:28:13,Long Standing
+35,35,-17,25,15:28:13,Long Standing
+36,38,-19,26,15:28:13,Long Standing
+37,37,-19,25,15:28:14,Long Standing
+38,37,-16,25,15:28:14,Long Standing
+39,37,-18,24,15:28:14,Long Standing
+40,36,-20,24,15:28:14,Long Standing
+41,38,-18,24,15:28:15,Long Standing
+42,38,-18,23,15:28:15,Long Standing
+43,39,-18,23,15:28:15,Long Standing
+44,38,-16,23,15:28:15,Long Standing
+45,38,-18,24,15:28:16,Long Standing
+46,38,-17,24,15:28:16,Long Standing
+47,38,-17,24,15:28:16,Long Standing
+48,37,-19,24,15:28:16,Long Standing
+49,38,-17,24,15:28:17,Long Standing
+50,38,-16,24,15:28:17,Long Standing
+51,38,-18,24,15:28:17,Long Standing
+52,39,-17,23,15:28:17,Long Standing
+53,38,-16,23,15:28:18,Long Standing
+54,40,-19,23,15:28:18,Long Standing
+55,38,-18,23,15:28:18,Long Standing
+56,39,-18,23,15:28:18,Long Standing
+57,38,-18,23,15:28:19,Long Standing
+58,38,-18,23,15:28:19,Long Standing
+59,38,-18,23,15:28:19,Long Standing
+60,38,-18,23,15:28:19,Long Standing
+61,38,-18,23,15:28:20,Long Standing
+62,38,-18,23,15:28:20,Long Standing
+63,38,-17,23,15:28:20,Long Standing
+64,38,-18,23,15:28:20,Long Standing
+65,37,-19,22,15:28:21,Long Standing
+66,39,-17,23,15:28:21,Long Standing
+67,40,-18,24,15:28:21,Long Standing
+68,39,-18,23,15:28:21,Long Standing
+69,39,-17,23,15:28:22,Long Standing
+70,38,-17,23,15:28:22,Long Standing
+71,39,-17,23,15:28:22,Long Standing
+72,38,-18,22,15:28:22,Long Standing
+73,38,-18,23,15:28:23,Long Standing
+74,38,-17,23,15:28:23,Long Standing
+75,38,-17,22,15:28:23,Long Standing
+76,37,-17,22,15:28:23,Long Standing
+77,39,-17,25,15:28:24,Long Standing
+78,37,-18,24,15:28:24,Long Standing
+79,37,-18,21,15:28:24,Long Standing
+80,39,-18,24,15:28:24,Long Standing
+81,38,-18,23,15:28:25,Long Standing
+82,38,-18,23,15:28:25,Long Standing
+83,39,-18,24,15:28:25,Long Standing
+84,38,-17,23,15:28:25,Long Standing
+85,38,-18,24,15:28:26,Long Standing
+86,38,-17,24,15:28:26,Long Standing
+87,36,-17,23,15:28:26,Long Standing
+88,38,-19,25,15:28:26,Long Standing
+89,37,-17,23,15:28:27,Long Standing
+90,38,-18,25,15:28:27,Long Standing
+91,38,-18,24,15:28:27,Long Standing
+92,38,-19,24,15:28:27,Long Standing
+93,34,-17,21,15:28:28,Long Standing
+94,39,-17,21,15:28:28,Long Standing
+95,39,-19,22,15:28:28,Long Standing
+96,37,-20,22,15:28:28,Long Standing
+97,28,-25,18,15:28:29,Long Standing
+98,37,-37,20,15:28:29,Long Standing
+99,25,-45,20,15:28:29,Long Standing
+100,15,-41,22,15:28:29,Long Standing
+101,18,-37,16,15:28:30,Bowing
+102,18,-40,17,15:28:30,Bowing
+103,16,-41,16,15:28:30,Bowing
+104,15,-46,14,15:28:30,Bowing
+105,14,-45,8,15:28:31,Bowing
+106,13,-45,6,15:28:31,Bowing
+107,13,-46,2,15:28:31,Bowing
+108,16,-47,1,15:28:31,Bowing
+109,10,-47,-2,15:28:32,Bowing
+110,11,-48,-4,15:28:32,Bowing
+111,11,-46,-5,15:28:32,Bowing
+112,10,-46,-7,15:28:32,Bowing
+113,10,-46,-9,15:28:33,Bowing
+114,10,-46,-9,15:28:33,Bowing
+115,10,-47,-8,15:28:33,Bowing
+116,10,-47,-8,15:28:34,Bowing
+117,10,-47,-8,15:28:34,Bowing
+118,10,-47,-9,15:28:34,Bowing
+119,10,-47,-8,15:28:34,Bowing
+120,10,-46,-9,15:28:35,Bowing
+121,10,-47,-9,15:28:35,Bowing
+122,10,-46,-9,15:28:35,Bowing
+123,10,-47,-9,15:28:35,Bowing
+124,10,-47,-9,15:28:36,Bowing
+125,10,-46,-10,15:28:36,Bowing
+126,10,-46,-10,15:28:36,Bowing
+127,10,-46,-10,15:28:36,Bowing
+128,10,-50,-4,15:28:37,Bowing
+129,13,-50,3,15:28:37,Bowing
+130,12,-42,12,15:28:37,Bowing
+131,14,-38,14,15:28:38,Bowing
+132,12,-40,23,15:28:38,Bowing
+133,15,-44,18,15:28:38,Bowing
+134,12,-44,15,15:28:38,Bowing
+135,13,-44,17,15:28:39,Short Standing
+136,12,-45,17,15:28:39,Short Standing
+137,9,-46,12,15:28:39,Short Standing
+138,11,-47,16,15:28:39,Short Standing
+139,3,-42,17,15:28:40,Short Standing
+140,7,-41,13,15:28:40,Short Standing
+141,13,-32,17,15:28:40,Short Standing
+142,16,-31,25,15:28:40,Short Standing
+143,19,-39,39,15:28:41,Short Standing
+144,16,-39,42,15:28:41,Short Standing
+145,11,-21,33,15:28:41,Short Standing
+146,15,-27,31,15:28:41,Short Standing
+147,8,-38,27,15:28:42,Short Standing
+148,11,-21,38,15:28:42,Short Standing
+149,13,-21,42,15:28:42,Short Standing
+150,14,-20,42,15:28:42,Short Standing
+151,14,-21,41,15:28:43,1st Prostration
+152,13,-22,41,15:28:43,1st Prostration
+153,13,-22,40,15:28:43,1st Prostration
+154,13,-21,41,15:28:43,1st Prostration
+155,13,-21,41,15:28:44,1st Prostration
+156,13,-21,41,15:28:44,1st Prostration
+157,14,-21,41,15:28:44,1st Prostration
+158,13,-21,41,15:28:44,1st Prostration
+159,14,-21,40,15:28:45,1st Prostration
+160,16,-20,42,15:28:45,1st Prostration
+161,18,-20,41,15:28:45,1st Prostration
+162,14,-37,18,15:28:46,1st Prostration
+163,24,-23,25,15:28:46,1st Prostration
+164,22,-29,36,15:28:46,1st Prostration
+165,23,-31,27,15:28:46,1st Prostration
+166,14,-26,32,15:28:47,Short Sitting
+167,9,-40,27,15:28:47,Short Sitting
+168,9,-40,27,15:28:47,Short Sitting
+169,15,-28,34,15:28:47,Short Sitting
+170,16,-29,34,15:28:48,Short Sitting
+171,16,-30,33,15:28:48,Short Sitting
+172,16,-31,34,15:28:48,Short Sitting
+173,16,-31,33,15:28:48,Short Sitting
+174,16,-31,34,15:28:49,2nd Prostration
+175,16,-31,33,15:28:49,2nd Prostration
+176,16,-31,33,15:28:49,2nd Prostration
+177,16,-31,33,15:28:49,2nd Prostration
+178,16,-31,33,15:28:50,2nd Prostration
+179,16,-31,33,15:28:50,2nd Prostration
+180,15,-33,32,15:28:50,2nd Prostration
+181,16,-32,32,15:28:50,2nd Prostration
+182,17,-30,33,15:28:51,2nd Prostration
+183,17,-27,37,15:28:51,2nd Prostration
+184,10,-47,39,15:28:51,2nd Prostration
+185,10,-38,20,15:28:51,2nd Prostration
+186,9,-29,18,15:28:52,2nd Prostration
+187,2,-46,21,15:28:52,2nd Prostration
+188,15,-44,36,15:28:52,2nd Prostration
+189,5,-30,29,15:28:52,2nd Prostration
+190,16,-40,39,15:28:53,2nd Prostration
+191,17,-28,31,15:28:53,2nd Prostration
+192,25,-22,20,15:28:53,2nd Prostration
+193,29,-10,27,15:28:53,2nd Prostration
+194,34,-11,23,15:28:54,Long Standing
+195,25,-18,30,15:28:54,Long Standing
+196,40,-7,12,15:28:54,Long Standing
+197,47,-9,24,15:28:54,Long Standing
+198,39,-15,10,15:28:55,Long Standing
+199,47,-15,11,15:28:55,Long Standing
+200,44,-15,10,15:28:55,Long Standing
+201,45,-14,10,15:28:55,Long Standing
+202,46,-14,10,15:28:56,Long Standing
+203,45,-14,10,15:28:56,Long Standing
+204,45,-15,9,15:28:56,Long Standing
+205,45,-15,9,15:28:56,Long Standing
+206,46,-14,8,15:28:57,Long Standing
+207,46,-15,8,15:28:57,Long Standing
+208,46,-15,9,15:28:57,Long Standing
+209,45,-14,8,15:28:57,Long Standing
+210,45,-14,8,15:28:58,Long Standing
+211,46,-14,8,15:28:58,Long Standing
+212,46,-14,8,15:28:58,Long Standing
+213,46,-14,8,15:28:58,Long Standing
+214,45,-14,8,15:28:59,Long Standing
+215,46,-14,7,15:28:59,Long Standing
+216,45,-14,7,15:28:59,Long Standing
+217,46,-14,7,15:28:59,Long Standing
+218,45,-14,7,15:29:00,Long Standing
+219,46,-14,7,15:29:00,Long Standing
+220,46,-14,7,15:29:00,Long Standing
+221,45,-14,7,15:29:00,Long Standing
+222,46,-13,7,15:29:01,Long Standing
+223,47,-14,8,15:29:01,Long Standing
+224,46,-14,7,15:29:01,Long Standing
+225,45,-14,8,15:29:01,Long Standing
+226,46,-13,8,15:29:02,Long Standing
+227,46,-14,8,15:29:02,Long Standing
+228,45,-14,7,15:29:02,Long Standing
+229,46,-14,8,15:29:02,Long Standing
+230,46,-14,8,15:29:03,Long Standing
+231,46,-14,7,15:29:03,Long Standing
+232,45,-14,8,15:29:03,Long Standing
+233,46,-14,7,15:29:03,Long Standing
+234,45,-14,7,15:29:04,Long Standing
+235,46,-14,7,15:29:04,Long Standing
+236,46,-13,8,15:29:04,Long Standing
+237,46,-14,8,15:29:04,Long Standing
+238,46,-13,8,15:29:05,Long Standing
+239,46,-14,8,15:29:05,Long Standing
+240,45,-14,7,15:29:05,Long Standing
+241,46,-14,8,15:29:05,Long Standing
+242,45,-14,6,15:29:06,Long Standing
+243,40,-16,8,15:29:06,Long Standing
+244,39,-23,4,15:29:06,Long Standing
+245,36,-32,3,15:29:06,Long Standing
+246,33,-35,1,15:29:07,Long Standing
+247,18,-43,-1,15:29:07,Long Standing
+248,14,-48,-4,15:29:07,Long Standing
+249,13,-47,-5,15:29:08,Bowing
+250,21,-43,-10,15:29:08,Bowing
+251,10,-48,-11,15:29:08,Bowing
+252,11,-45,-8,15:29:08,Bowing
+253,11,-45,-10,15:29:09,Bowing
+254,12,-46,-10,15:29:09,Bowing
+255,11,-46,-11,15:29:09,Bowing
+256,10,-47,-11,15:29:09,Bowing
+257,10,-44,-8,15:29:10,Bowing
+258,9,-44,-9,15:29:10,Bowing
+259,10,-46,-13,15:29:10,Bowing
+260,11,-46,-12,15:29:10,Bowing
+261,11,-46,-12,15:29:11,Bowing
+262,11,-46,-13,15:29:11,Bowing
+263,11,-45,-12,15:29:11,Bowing
+264,10,-48,-13,15:29:11,Bowing
+265,10,-48,-13,15:29:12,Bowing
+266,13,-46,-10,15:29:12,Bowing
+267,14,-49,-3,15:29:12,Bowing
+268,17,-49,0,15:29:12,Bowing
+269,18,-40,6,15:29:13,Bowing
+270,16,-39,10,15:29:13,Bowing
+271,19,-39,18,15:29:13,Bowing
+272,19,-44,18,15:29:13,Bowing
+273,20,-42,15,15:29:14,Short Standing
+274,19,-42,17,15:29:14,Short Standing
+275,19,-43,16,15:29:14,Short Standing
+276,18,-38,11,15:29:14,Short Standing
+277,12,-42,15,15:29:15,Short Standing
+278,12,-40,16,15:29:15,Short Standing
+279,20,-34,13,15:29:15,Short Standing
+280,34,-31,27,15:29:15,Short Standing
+281,34,-25,33,15:29:16,Short Standing
+282,37,-13,39,15:29:16,Short Standing
+283,17,-18,33,15:29:16,Short Standing
+284,18,-21,33,15:29:16,Short Standing
+285,21,-38,25,15:29:17,Short Standing
+286,21,-38,25,15:29:17,Short Standing
+287,17,-16,39,15:29:17,Short Standing
+288,17,-21,40,15:29:17,Short Standing
+289,25,-16,38,15:29:18,1st Prostration
+290,23,-17,39,15:29:18,1st Prostration
+291,22,-18,39,15:29:18,1st Prostration
+292,22,-19,38,15:29:18,1st Prostration
+293,23,-18,38,15:29:19,1st Prostration
+294,23,-18,38,15:29:19,1st Prostration
+295,23,-19,38,15:29:19,1st Prostration
+296,23,-20,37,15:29:19,1st Prostration
+297,22,-20,37,15:29:20,1st Prostration
+298,23,-20,37,15:29:20,1st Prostration
+299,25,-17,38,15:29:20,1st Prostration
+300,24,-21,38,15:29:20,1st Prostration
+301,25,-35,32,15:29:21,1st Prostration
+302,20,-35,25,15:29:21,1st Prostration
+303,12,-42,22,15:29:21,1st Prostration
+304,13,-48,22,15:29:21,1st Prostration
+305,21,-41,18,15:29:22,Short Sitting
+306,19,-31,27,15:29:22,Short Sitting
+307,25,-21,35,15:29:22,Short Sitting
+308,17,-28,34,15:29:22,Short Sitting
+309,43,-49,45,15:29:23,Short Sitting
+310,12,-26,33,15:29:23,Short Sitting
+311,22,-19,40,15:29:23,Short Sitting
+312,20,-20,38,15:29:23,Short Sitting
+313,20,-26,35,15:29:24,2nd Prostration
+314,20,-26,34,15:29:24,2nd Prostration
+315,21,-27,33,15:29:24,2nd Prostration
+316,21,-27,34,15:29:24,2nd Prostration
+317,20,-27,34,15:29:25,2nd Prostration
+318,21,-28,33,15:29:25,2nd Prostration
+319,21,-27,34,15:29:25,2nd Prostration
+320,21,-27,34,15:29:25,2nd Prostration
+321,19,-28,32,15:29:26,2nd Prostration
+322,21,-24,35,15:29:26,2nd Prostration
+323,24,-20,37,15:29:26,2nd Prostration
+324,24,-21,37,15:29:26,2nd Prostration
+325,27,-37,30,15:29:27,2nd Prostration
+326,24,-13,30,15:29:27,2nd Prostration
+327,33,-24,26,15:29:27,2nd Prostration
+328,28,-13,36,15:29:28,Long Sitting
+329,26,-10,37,15:29:28,Long Sitting
+330,28,-14,36,15:29:28,Long Sitting
+331,30,-10,36,15:29:28,Long Sitting
+332,32,-11,35,15:29:29,Long Sitting
+333,32,-10,35,15:29:29,Long Sitting
+334,31,-11,35,15:29:29,Long Sitting
+335,30,-11,35,15:29:29,Long Sitting
+336,31,-11,35,15:29:30,Long Sitting
+337,31,-11,35,15:29:30,Long Sitting
+338,31,-11,35,15:29:30,Long Sitting
+339,31,-11,35,15:29:30,Long Sitting
+340,31,-11,35,15:29:31,Long Sitting
+341,31,-11,35,15:29:31,Long Sitting
+342,32,-11,35,15:29:31,Long Sitting
+343,30,-11,35,15:29:31,Long Sitting
+344,31,-12,34,15:29:32,Long Sitting
+345,31,-11,35,15:29:32,Long Sitting
+346,32,-12,35,15:29:32,Long Sitting
+347,31,-11,35,15:29:32,Long Sitting
+348,30,-12,35,15:29:33,Long Sitting
+349,30,-12,36,15:29:33,Long Sitting
+350,30,-12,35,15:29:33,Long Sitting
+351,29,-14,35,15:29:33,Long Sitting
+352,28,-11,36,15:29:34,Long Sitting
+353,27,-6,35,15:29:34,Long Sitting
+354,39,-12,30,15:29:34,Long Sitting
+355,30,-23,26,15:29:34,Long Sitting
+356,30,-23,26,15:29:35,Long Sitting
+357,33,-44,9,15:29:35,Long Sitting
+358,30,-39,2,15:29:35,Long Sitting
+359,30,-37,9,15:29:35,Long Sitting
+360,20,-42,4,15:29:36,Long Sitting
+361,30,-37,18,15:29:36,Long Sitting
+362,44,-50,5,15:29:36,Long Sitting
+363,17,-42,21,15:29:37,Long Sitting
+364,26,-23,29,15:29:37,Long Sitting
+365,12,-12,30,15:29:37,Long Sitting
+366,46,0,-7,15:29:37,Long Sitting
+367,50,-7,5,15:29:38,Long Standing
+368,47,-10,5,15:29:38,Long Standing
+369,48,-7,1,15:29:39,Long Standing
+370,50,-5,3,15:29:39,Long Standing
+371,48,-5,4,15:29:39,Long Standing
+372,48,-6,5,15:29:39,Long Standing
+373,48,-6,5,15:29:40,Long Standing
+374,48,-6,5,15:29:40,Long Standing
+375,48,-6,6,15:29:40,Long Standing
+376,48,-5,6,15:29:40,Long Standing
+377,47,-6,5,15:29:41,Long Standing
+378,48,-6,5,15:29:41,Long Standing
+379,48,-6,5,15:29:41,Long Standing
+380,48,-6,6,15:29:41,Long Standing
+381,48,-5,6,15:29:42,Long Standing
+382,48,-5,7,15:29:42,Long Standing
+383,48,-4,8,15:29:42,Long Standing
+384,47,-5,6,15:29:42,Long Standing
+385,46,-5,7,15:29:43,Long Standing
+386,48,-5,8,15:29:43,Long Standing
+387,48,-5,7,15:29:43,Long Standing
+388,48,-5,7,15:29:43,Long Standing
+389,48,-5,6,15:29:44,Long Standing
+390,48,-5,6,15:29:44,Long Standing
+391,47,-5,6,15:29:44,Long Standing
+392,48,-5,6,15:29:44,Long Standing
+393,48,-5,6,15:29:45,Long Standing
+394,48,-5,7,15:29:45,Long Standing
+395,48,-5,7,15:29:45,Long Standing
+396,48,-5,7,15:29:45,Long Standing
+397,48,-5,7,15:29:46,Long Standing
+398,48,-5,7,15:29:46,Long Standing
+399,48,-5,7,15:29:46,Long Standing
+400,47,-4,7,15:29:46,Long Standing
+401,48,-5,7,15:29:47,Long Standing
+402,48,-5,7,15:29:47,Long Standing
+403,48,-5,7,15:29:47,Long Standing
+404,48,-5,7,15:29:47,Long Standing
+405,47,-5,7,15:29:48,Long Standing
+406,47,-5,8,15:29:48,Long Standing
+407,48,-5,8,15:29:48,Long Standing
+408,47,-5,8,15:29:48,Long Standing
+409,47,-5,8,15:29:49,Long Standing
+410,48,-4,8,15:29:49,Long Standing
+411,48,-5,8,15:29:49,Long Standing
+412,48,-5,9,15:29:49,Long Standing
+413,48,-5,8,15:29:50,Long Standing
+414,47,-4,7,15:29:50,Long Standing
+415,44,-6,11,15:29:50,Long Standing
+416,42,-7,14,15:29:50,Long Standing
+417,49,-8,20,15:29:51,Long Standing
+418,37,-14,19,15:29:51,Long Standing
+419,36,-21,18,15:29:51,Long Standing
+420,34,-26,18,15:29:51,Long Standing
+421,33,-36,11,15:29:52,Long Standing
+422,29,-38,10,15:29:52,Long Standing
+423,29,-39,5,15:29:52,Long Standing
+424,28,-43,3,15:29:52,Long Standing
+425,25,-42,-2,15:29:53,Long Standing
+426,25,-42,-1,15:29:53,Long Standing
+427,22,-42,-3,15:29:53,Long Standing
+428,25,-41,0,15:29:53,Long Standing
+429,24,-42,-5,15:29:54,Bowing
+430,25,-42,-3,15:29:54,Bowing
+431,24,-41,-5,15:29:54,Bowing
+432,24,-41,-5,15:29:54,Bowing
+433,24,-42,-6,15:29:55,Bowing
+434,25,-42,-7,15:29:55,Bowing
+435,24,-42,-5,15:29:55,Bowing
+436,24,-42,-5,15:29:55,Bowing
+437,24,-41,-4,15:29:56,Bowing
+438,24,-41,-5,15:29:56,Bowing
+439,25,-41,-7,15:29:56,Bowing
+440,24,-42,-5,15:29:56,Bowing
+441,25,-41,-4,15:29:57,Bowing
+442,25,-43,-3,15:29:57,Bowing
+443,25,-42,-4,15:29:57,Bowing
+444,26,-41,0,15:29:57,Bowing
+445,26,-46,3,15:29:58,Bowing
+446,16,-47,4,15:29:58,Bowing
+447,14,-44,12,15:29:58,Bowing
+448,11,-42,16,15:29:58,Bowing
+449,9,-43,22,15:29:59,Bowing
+450,7,-41,23,15:29:59,Bowing
+451,4,-40,26,15:29:59,Bowing
+452,4,-40,25,15:29:59,Bowing
+453,3,-41,28,15:30:00,Bowing
+454,3,-41,25,15:30:00,Bowing
+455,3,-40,26,15:30:00,Bowing
+456,1,-38,25,15:30:00,Bowing
+457,8,-37,26,15:30:01,Short Standing
+458,0,-33,31,15:30:01,Short Standing
+459,-5,-18,38,15:30:01,Short Standing
+460,-4,-20,45,15:30:01,Short Standing
+461,-6,-14,48,15:30:02,Short Standing
+462,-7,-8,39,15:30:02,Short Standing
+463,-2,-27,41,15:30:02,Short Standing
+464,-8,-29,41,15:30:02,Short Standing
+465,2,-22,45,15:30:03,Short Standing
+466,2,-19,44,15:30:03,Short Standing
+467,5,-17,45,15:30:03,Short Standing
+468,4,-18,45,15:30:03,Short Standing
+469,3,-17,45,15:30:04,1st Prostration
+470,2,-18,45,15:30:04,1st Prostration
+471,2,-17,45,15:30:04,1st Prostration
+472,2,-17,45,15:30:04,1st Prostration
+473,2,-18,45,15:30:05,1st Prostration
+474,2,-17,45,15:30:05,1st Prostration
+475,2,-17,45,15:30:05,1st Prostration
+476,2,-17,45,15:30:05,1st Prostration
+477,2,-17,45,15:30:06,1st Prostration
+478,3,-17,45,15:30:06,1st Prostration
+479,2,-16,44,15:30:06,1st Prostration
+480,3,-18,44,15:30:06,1st Prostration
+481,5,-21,43,15:30:07,1st Prostration
+482,3,-24,42,15:30:07,1st Prostration
+483,5,-31,44,15:30:07,1st Prostration
+484,8,-27,37,15:30:07,1st Prostration
+485,12,-14,41,15:30:08,1st Prostration
+486,12,-8,41,15:30:08,1st Prostration
+487,12,-17,46,15:30:08,1st Prostration
+488,12,-5,44,15:30:08,1st Prostration
+489,3,-6,45,15:30:09,Short Sitting
+490,3,-24,40,15:30:09,Short Sitting
+491,3,-32,41,15:30:09,Short Sitting
+492,7,-22,44,15:30:09,Short Sitting
+493,7,-24,41,15:30:10,2nd Prostration
+494,7,-25,40,15:30:10,2nd Prostration
+495,7,-25,40,15:30:10,2nd Prostration
+496,6,-28,39,15:30:10,2nd Prostration
+497,7,-27,39,15:30:11,2nd Prostration
+498,7,-27,39,15:30:11,2nd Prostration
+499,7,-27,39,15:30:11,2nd Prostration
+500,7,-27,39,15:30:11,2nd Prostration
+501,7,-28,39,15:30:12,2nd Prostration
+502,7,-27,39,15:30:12,2nd Prostration
+503,8,-27,39,15:30:12,2nd Prostration
+504,7,-27,40,15:30:12,2nd Prostration
+505,8,-26,39,15:30:13,2nd Prostration
+506,9,-29,39,15:30:13,2nd Prostration
+507,7,-34,34,15:30:13,2nd Prostration
+508,10,-35,36,15:30:13,2nd Prostration
+509,5,-20,35,15:30:14,2nd Prostration
+510,3,-22,46,15:30:14,2nd Prostration
+511,3,-22,45,15:30:14,2nd Prostration
+512,8,-27,46,15:30:14,2nd Prostration
+513,13,-32,30,15:30:15,2nd Prostration
+514,10,-27,23,15:30:15,2nd Prostration
+515,17,-36,31,15:30:15,2nd Prostration
+516,34,-31,26,15:30:16,Long Standing
+517,20,-28,30,15:30:16,Long Standing
+518,16,-22,32,15:30:16,Long Standing
+519,20,-19,40,15:30:16,Long Standing
+520,24,-21,36,15:30:17,Long Standing
+521,29,-20,33,15:30:17,Long Standing
+522,26,-21,29,15:30:17,Long Standing
+523,34,-22,28,15:30:17,Long Standing
+524,35,-20,27,15:30:18,Long Standing
+525,37,-22,29,15:30:18,Long Standing
+526,34,-21,28,15:30:18,Long Standing
+527,33,-22,28,15:30:18,Long Standing
+528,33,-23,28,15:30:19,Long Standing
+529,33,-22,27,15:30:19,Long Standing
+530,34,-22,28,15:30:19,Long Standing
+531,33,-22,27,15:30:19,Long Standing
+532,33,-22,27,15:30:20,Long Standing
+533,32,-21,28,15:30:20,Long Standing
+534,33,-22,28,15:30:20,Long Standing
+535,33,-22,27,15:30:20,Long Standing
+536,33,-22,27,15:30:21,Long Standing
+537,33,-22,28,15:30:21,Long Standing
+538,32,-22,27,15:30:21,Long Standing
+539,32,-22,28,15:30:21,Long Standing
+540,33,-22,27,15:30:22,Long Standing
+541,33,-22,27,15:30:22,Long Standing
+542,33,-22,28,15:30:22,Long Standing
+543,33,-22,27,15:30:22,Long Standing
+544,33,-22,27,15:30:23,Long Standing
+545,34,-21,28,15:30:23,Long Standing
+546,33,-22,27,15:30:23,Long Standing
+547,33,-22,28,15:30:23,Long Standing
+548,33,-22,27,15:30:24,Long Standing
+549,33,-22,28,15:30:24,Long Standing
+550,33,-22,27,15:30:24,Long Standing
+551,33,-22,27,15:30:24,Long Standing
+552,35,-22,26,15:30:25,Long Standing
+553,34,-23,26,15:30:25,Long Standing
+554,33,-22,29,15:30:25,Long Standing
+555,32,-21,30,15:30:25,Long Standing
+556,31,-21,28,15:30:26,Long Standing
+557,33,-20,28,15:30:26,Long Standing
+558,33,-20,28,15:30:26,Long Standing
+559,33,-21,27,15:30:26,Long Standing
+560,34,-22,27,15:30:27,Long Standing
+561,34,-22,28,15:30:27,Long Standing
+562,33,-21,28,15:30:27,Long Standing
+563,33,-22,28,15:30:27,Long Standing
+564,33,-22,27,15:30:28,Long Standing
+565,34,-22,26,15:30:28,Long Standing
+566,34,-22,26,15:30:28,Long Standing
+567,33,-22,26,15:30:28,Long Standing
+568,34,-22,26,15:30:29,Long Standing
+569,33,-22,26,15:30:29,Long Standing
+570,34,-22,27,15:30:29,Long Standing
+571,34,-22,26,15:30:29,Long Standing
+572,29,-23,28,15:30:30,Long Standing
+573,29,-27,26,15:30:30,Long Standing
+574,28,-30,24,15:30:30,Long Standing
+575,23,-34,16,15:30:30,Long Standing
+576,23,-43,14,15:30:31,Long Standing
+577,19,-49,7,15:30:31,Long Standing
+578,15,-50,-1,15:30:31,Long Standing
+579,12,-46,-5,15:30:32,Bowing
+580,10,-46,-3,15:30:32,Bowing
+581,12,-47,-5,15:30:32,Bowing
+582,10,-47,-5,15:30:32,Bowing
+583,11,-47,-5,15:30:33,Bowing
+584,11,-47,-5,15:30:33,Bowing
+585,10,-47,-5,15:30:33,Bowing
+586,11,-47,-6,15:30:33,Bowing
+587,10,-48,-6,15:30:34,Bowing
+588,11,-47,-5,15:30:34,Bowing
+589,11,-48,-6,15:30:34,Bowing
+590,14,-50,-6,15:30:34,Bowing
+591,15,-49,1,15:30:35,Bowing
+592,18,-47,1,15:30:35,Bowing
+593,18,-40,9,15:30:35,Bowing
+594,19,-38,9,15:30:35,Bowing
+595,20,-37,16,15:30:36,Short Standing
+596,22,-39,18,15:30:36,Short Standing
+597,21,-39,20,15:30:36,Short Standing
+598,21,-38,20,15:30:36,Short Standing
+599,19,-40,20,15:30:37,Short Standing
+600,17,-41,18,15:30:37,Short Standing
+601,16,-38,17,15:30:37,Short Standing
+602,17,-32,19,15:30:37,Short Standing
+603,20,-30,27,15:30:38,Short Standing
+604,30,-17,30,15:30:38,Short Standing
+605,21,-25,45,15:30:38,Short Standing
+606,20,-13,34,15:30:38,Short Standing
+607,20,-37,36,15:30:39,Short Standing
+608,12,-33,36,15:30:39,Short Standing
+609,15,-29,35,15:30:39,Short Standing
+610,15,-29,36,15:30:40,1st Prostration
+611,15,-31,34,15:30:40,1st Prostration
+612,15,-32,33,15:30:40,1st Prostration
+613,15,-32,33,15:30:40,1st Prostration
+614,4,-40,38,15:30:41,1st Prostration
+615,15,-32,33,15:30:41,1st Prostration
+616,14,-33,32,15:30:41,1st Prostration
+617,15,-32,33,15:30:41,1st Prostration
+618,18,-28,36,15:30:42,1st Prostration
+619,15,-28,36,15:30:42,1st Prostration
+620,14,-29,36,15:30:42,1st Prostration
+621,12,-29,37,15:30:42,1st Prostration
+622,14,-28,36,15:30:43,1st Prostration
+623,12,-29,36,15:30:43,1st Prostration
+624,17,-28,37,15:30:43,1st Prostration
+625,23,-26,36,15:30:43,1st Prostration
+626,20,-20,37,15:30:44,1st Prostration
+627,17,-26,37,15:30:44,1st Prostration
+628,6,-31,32,15:30:44,1st Prostration
+629,9,-37,37,15:30:44,1st Prostration
+630,16,-18,40,15:30:45,1st Prostration
+631,8,-18,39,15:30:45,1st Prostration
+632,19,-20,41,15:30:45,1st Prostration
+633,16,-19,40,15:30:45,1st Prostration
+634,18,-16,41,15:30:46,Short Sitting
+635,16,-13,39,15:30:46,Short Sitting
+636,8,-19,21,15:30:46,Short Sitting
+637,11,-36,27,15:30:47,Short Sitting
+638,14,-30,37,15:30:47,Short Sitting
+639,15,-30,34,15:30:47,Short Sitting
+640,14,-36,29,15:30:47,Short Sitting
+641,13,-37,28,15:30:48,2nd Prostration
+642,13,-36,29,15:30:48,2nd Prostration
+643,13,-36,29,15:30:48,2nd Prostration
+644,13,-36,29,15:30:48,2nd Prostration
+645,14,-36,29,15:30:49,2nd Prostration
+646,13,-36,29,15:30:49,2nd Prostration
+647,13,-36,29,15:30:49,2nd Prostration
+648,17,-31,33,15:30:49,2nd Prostration
+649,14,-28,36,15:30:50,2nd Prostration
+650,14,-25,39,15:30:50,2nd Prostration
+651,13,-26,43,15:30:50,2nd Prostration
+652,8,-33,36,15:30:50,2nd Prostration
+653,15,-19,32,15:30:51,2nd Prostration
+654,10,-15,41,15:30:51,2nd Prostration
+655,19,-20,40,15:30:51,2nd Prostration
+656,16,-18,36,15:30:51,2nd Prostration
+657,22,-18,38,15:30:52,Long Sitting
+658,22,-19,38,15:30:52,Long Sitting
+659,22,-19,38,15:30:52,Long Sitting
+660,20,-15,37,15:30:52,Long Sitting
+661,16,-16,42,15:30:53,Long Sitting
+662,18,-16,42,15:30:53,Long Sitting
+663,19,-17,42,15:30:53,Long Sitting
+664,17,-16,41,15:30:53,Long Sitting
+665,20,-17,41,15:30:54,Long Sitting
+666,18,-15,40,15:30:54,Long Sitting
+667,20,-14,41,15:30:54,Long Sitting
+668,19,-14,40,15:30:54,Long Sitting
+669,26,-11,41,15:30:55,Long Sitting
+670,20,-12,41,15:30:55,Long Sitting
+671,25,-11,40,15:30:55,Long Sitting
+672,23,-14,40,15:30:55,Long Sitting
+673,24,-13,39,15:30:56,Long Sitting
+674,22,-16,40,15:30:56,Long Sitting
+675,22,-15,40,15:30:56,Long Sitting
+676,22,-15,40,15:30:56,Long Sitting
+677,22,-16,39,15:30:57,Long Sitting
+678,22,-15,40,15:30:57,Long Sitting
+679,22,-15,40,15:30:57,Long Sitting
+680,23,-15,39,15:30:57,Long Sitting
+681,22,-15,40,15:30:58,Long Sitting
+682,22,-15,40,15:30:58,Long Sitting
+683,22,-15,40,15:30:58,Long Sitting
+684,23,-15,39,15:30:58,Long Sitting
+685,23,-15,39,15:30:59,Long Sitting
+686,23,-15,39,15:30:59,Long Sitting
+687,23,-15,39,15:30:59,Long Sitting
+688,23,-15,40,15:30:59,Long Sitting
+689,23,-15,40,15:31:00,Long Sitting
+690,23,-15,40,15:31:00,Long Sitting
+691,23,-15,40,15:31:00,Long Sitting
+692,23,-15,40,15:31:00,Long Sitting
+693,23,-15,40,15:31:01,Long Sitting
+694,23,-15,40,15:31:01,Long Sitting
+695,22,-15,40,15:31:01,Long Sitting
+696,23,-15,40,15:31:01,Long Sitting
+697,21,-17,39,15:31:02,Long Sitting
+698,23,-14,39,15:31:02,Long Sitting
+699,20,-15,40,15:31:02,Long Sitting
+700,23,-16,40,15:31:02,Long Sitting
+701,23,-16,39,15:31:03,Long Sitting
+702,23,-16,39,15:31:03,Long Sitting
+703,23,-16,40,15:31:03,Long Sitting
+704,23,-16,40,15:31:03,Long Sitting
+705,21,-16,39,15:31:04,Long Sitting
+706,21,-16,40,15:31:04,Long Sitting
+707,19,-17,39,15:31:04,Long Sitting
+708,22,-16,40,15:31:04,Long Sitting
+709,22,-16,40,15:31:05,Long Sitting
+710,22,-16,40,15:31:05,Long Sitting
+711,21,-16,40,15:31:05,Long Sitting
+712,22,-16,40,15:31:05,Long Sitting
+713,21,-16,40,15:31:06,Long Sitting
+714,21,-16,40,15:31:06,Long Sitting
+715,22,-16,40,15:31:06,Long Sitting
+716,22,-15,39,15:31:06,Long Sitting
+717,22,-16,39,15:31:07,Long Sitting
+718,22,-16,40,15:31:07,Long Sitting
+719,22,-16,40,15:31:07,Long Sitting
+720,21,-16,39,15:31:07,Long Sitting
+721,22,-16,40,15:31:08,Long Sitting
+722,23,-15,39,15:31:08,Long Sitting
+723,22,-15,40,15:31:08,Long Sitting
+724,22,-15,40,15:31:08,Long Sitting
+725,22,-15,40,15:31:09,Long Sitting
+726,22,-16,39,15:31:09,Long Sitting
+727,22,-16,40,15:31:09,Long Sitting
+728,22,-16,40,15:31:09,Long Sitting
+729,22,-16,40,15:31:10,Long Sitting
+730,22,-16,40,15:31:10,Long Sitting
+731,22,-15,40,15:31:10,Long Sitting
+732,21,-16,40,15:31:10,Long Sitting
